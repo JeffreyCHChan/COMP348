@@ -10,4 +10,7 @@ return 2 * (this.width + this.height);
 public double getArea() {
 return this.width * this.height;
 }
+public String toString() {
+	return null;
+}
 }

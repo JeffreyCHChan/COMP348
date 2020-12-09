@@ -9,4 +9,7 @@ return 2 * Math.PI * this.radius;
 public double getArea() {
 throw new RuntimeException("Oops, I don't know how to calculate this :(");
 }
+public String toString() {
+	return null;
+}
 }
